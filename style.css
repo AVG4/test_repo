@@ -1,0 +1,78 @@
+
+ .header {
+    
+    overflow: hidden;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 16px;
+    align-items: center;
+    
+    
+  }
+
+  .topnav a {
+    
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  
+  }
+
+  .topnav a:hover{
+    color: lightseagreen
+  }
+
+  .logo {
+    
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+
+  body {
+    background-image: url("https://static1.squarespace.com/static/5942bcc62994ca625384ff40/5fbd4d8c38079d256cb55fa0/5fbd4ef87e50672f3725df0e/1608312901042/SEVEN_MILE_BEACH-4.jpg?format=1500w");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  
+   
+
+  }
+  
+  .content h1{
+    color: lightyellow;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 450px;
+    
+    
+
+  }
+  
+  .sections h1{
+    color: lightyellow;
+    font-size: 30px;
+    border-style: solid;
+    border-color: lightyellow;
+    border-width: 3px;
+    background-color: lightblue;
+   
+
+  
+  }
+
+  .content p{
+    font-size: 20px;
+    color: lightyellow;
+
+  }
+  
+
+    
